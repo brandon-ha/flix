@@ -20,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://imgur.com/EKKBMUj.gif" width=250><br>
+<img src="https://i.imgur.com/EKKBMUj.gif" width=250><br>
 
 ### Notes
 I found that conencting the storyboard elements with the Swift files a little confusing at first because connections between the two still remain unless explicitly deleted from both the storyboard and the Swift files.
